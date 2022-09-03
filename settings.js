@@ -5,7 +5,7 @@ const moralisApi = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"    // Web3 Api key
 
 const collectionInfo = {
     name: "Tec.sellix.io",
-    title: "AirDrop Star", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "Etherum official event", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "03.09.2022 - 12.09.2022", // Today date
     socialMedia: {
         discord: "https://discord.com/invite/cryptohub",
