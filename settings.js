@@ -4,7 +4,7 @@ const infuraId = "e53dc432bda847078c6d418e92982f57"     // Infuria Project ID | 
 const moralisApi = "5W4uwFhOKOzZYW15hk4afH1mGcn02KXRObedwXKX"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Tec.sellix.io",
+    name: "StarDrop Event",
     title: "Ethereum StarDrop", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "03.09.2022 - 12.09.2022", // Today date
     socialMedia: {
