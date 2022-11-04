@@ -4,8 +4,8 @@ const infuraId = "e53dc432bda847078c6d418e92982f57"     // Infuria Project ID | 
 const moralisApi = "Gc7ozHgWSWDq7lNWn9h30da4LjHy8YkoJFfgGyfv9a4HnIla5AHqZRkab4ihgeAZ"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "StarDrop Event",
-    title: "Ethereum StarDrop", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "KidFlix",
+    title: "1 vid", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "03.09.2022 - 12.09.2022", // Today date
     socialMedia: {
         discord: "https://discord.com/invite/cryptohub",
